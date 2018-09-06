@@ -314,3 +314,7 @@ img {
 .select_account {
     display: inline-block;
 }
+
+.nav-link:target {
+  color: red;
+}
